@@ -1,6 +1,6 @@
-# Gustavo Poteins Nextflow pipeline
+# Gustavo Protein Anotation Nextflow pipeline
 
-Um pipeline muito simples para baixar genomas do ncbi, anota-los com o prokka e exportar as proteínas anotadas e as proteínas hipotéticas detectadas com eles.
+Um pipeline muito simples para baixar genomas/reads do ncbi, anota-los com o prokka e exportar as proteínas anotadas e as proteínas hipotéticas detectadas com eles e submeter as proteínas hipotéticas a análise da ferramente interproscan.
 
 ## Instalações requeridas
 * [git](https://git-scm.com/downloads) 
